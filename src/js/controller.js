@@ -70,18 +70,20 @@ const controlServings = function (servings) {
   model.updateServings(servings);
 
   // Update the recipe view
-  // recipeView.render(model.state.recipe);
   recipeView.update(model.state.recipe);
 };
 
-const controlAddBookmark = function () {
-  model.addBookMark(model.state.recipe);
-  console.log(model.state.recipe);
+const controlToggleBookmark = function () {
+  if (!model.state.recipe.bookmarked) model.addBookmark(model.state.recipe);
+  else model.removeBookmark(model.state.recipe.id);
+
+  recipeView.update(model.state.recipe);
 };
 
 const init = function () {
   recipeView.addHandlerRender(controlRecipes);
   recipeView.addHandlerUpdateServings(controlServings);
+  recipeView.addHandlerToggleBookmark(controlToggleBookmark);
   searchView.addHandlerSearch(controlSearchResults);
   paginationView.addHandlerClick(controlPagination);
 };
