@@ -1,9 +1,9 @@
-9634
+9635
 95C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\.prettierrc132886955210000000 0
 109C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\import-fresh133463044781466477 1
-123C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\lightningcss\node\index.js133463044783611490 0
 131C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\core-win32-x64-msvc\README.md133463044779863010 0
 147C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133463044789535586 0
+123C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\lightningcss\node\index.js133463044783611490 0
 135C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\cjs\syntax\node\Condition.cjs133463044784798582 0
 103C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\base-x133463044781066677 1
 127C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\string\match.js133463108329544891 0
@@ -30,7 +30,7 @@
 172C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133463044780821936 0
 164C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\Lexer.js133463044788607215 0
 131C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\cjs\syntax\node\Block.cjs133463044783434904 0
-88C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist133466569370654180 1
+88C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist133467459324628482 1
 137C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\number\is-safe-integer.js133463108326501048 0
 136C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\dom-collections\index.js133463108323376816 0
 110C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\views\searchView.js133464838252519601 0
@@ -149,7 +149,7 @@
 103C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\sass\_base.scss132886955210000000 0
 131C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\type-fest\ts41\delimiter-case.d.ts133463044783751582 0
 124C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\weak-lru-cache\package.json133463044782724957 0
-111C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\views\resultsView.js133466526201636220 0
+111C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\views\resultsView.js133466596154945579 0
 133C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\number\parse-int.js133463108331018946 0
 118C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\regexp133463108339975815 1
 126C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\create.js133463044790756425 0
@@ -174,7 +174,7 @@
 134C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\proposals\keys-composition.js133463108328102751 0
 148C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.1133463044785899820 0
 131C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\string-repeat.js133463108336891802 0
-104C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\views\View.js133466186156123891 0
+104C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\views\View.js133466586854783092 0
 135C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.map.map-keys.js133463108314345602 0
 112C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\sass\_searchResults.scss132886955210000000 0
 131C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\hevc.js133463044793908285 0
@@ -210,7 +210,7 @@
 140C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\link-icon-svg.js133463044795001503 0
 103C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@babel133463044765533768 1
 164C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\utils\clone.js133463044784658435 0
-104C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133466572498971001 0
+104C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133467458631580584 0
 117C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\profiler\src133463044783751582 1
 131C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\array\virtual\flat.js133463108318718522 0
 150C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\utils\test\input\sourcemap\source-root.js.map133463044789648459 0
@@ -228,7 +228,7 @@
 138C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\instance\to-well-formed.js133463108339975815 0
 129C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\cjs\lexer\structure.cjs133463044789728505 0
 110C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\l10n133463044783068173 1
-99C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\model.js133466469897964036 0
+99C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\model.js133466973281995483 0
 135C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-js\src\.eslintrc.json133463044785111042 0
 136C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\proposals\map-upsert-stage-2.js133463108328931332 0
 133C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\instance\trim-left.js133463108340381414 0
@@ -240,7 +240,11 @@
 132C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.map.every.js133463108314264867 0
 143C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\pseudo-selectors\aliases.js.map133463044786043076 0
 124C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\dom-serializer\lib\index.js133463044782091115 0
-96C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\views133466511307359370 1
+96C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\views133467316336565456 1
+143C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\url-constructor-detection.js133463108341900615 0
+125C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\domhandler\lib\node.d.ts.map133463044782189021 0
+133C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\webgl2.js133463044798285645 0
+113C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\views\addRecipeView.js133467459323899837 0
 135C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\atrule\supports.js133463044792198195 0
 137C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\utility-types\dist\aliases-and-guards.js133463044779987396 0
 154C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\050-modules.md133463044788266072 0
@@ -252,7 +256,7 @@
 158C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src133463044788767869 1
 128C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\dom-serializer\lib\esm\index.js133463044781546035 0
 133C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\cosmiconfig\dist\ExplorerBase.js.map133463044783907864 0
-113C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\views\bookmarksView.js133466526235927885 0
+113C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\views\bookmarksView.js133466983871669886 0
 109C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\browserslist133463044783591130 1
 145C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs133463044793255058 0
 123C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\source-map\source-map.d.ts133463044784569428 0
@@ -267,24 +271,13 @@
 120C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\js-yaml\lib\type\set.js133463044785835686 0
 159C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133463044781239013 0
 114C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\views\paginationView.js133464922705762710 0
-124C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\web.self.js133463108342543197 0
-107C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\color-name133463044780837562 1
-121C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\source-map\source-map.js133463044781066677 0
-112C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\htmlparser2\lib133463044784658435 1
-129C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\object\is-frozen.js133463108326193459 0
-142C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.number.min-safe-integer.js133463108310645850 0
-116C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\regenerator-runtime133463108302257019 1
-138C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\object\iterate-values.js133463108327337692 0
-132C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-js\lib\helpers\node133463044786648145 1
-127C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\removeMetadata.js133463044788346088 0
-140C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\string\virtual\trim-start.js133463108340726544 0
 124C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\utils\ident.js133463044791230019 0
 137C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\virtual\index-of.js133463108322972051 0
 117C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\term-size\index.d.ts133463044783434904 0
 122C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\lightningcss\package.json133463044783751582 0
 123C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\nullthrows\nullthrows.d.ts133463044780498709 0
 135C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\entities\lib\decode_codepoint.d.ts.map133463044784191172 0
-111C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\views\previewView.js133466571700377122 0
+111C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\src\js\views\previewView.js133466596647769263 0
 111C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\ordered-binary133463044784153493 1
 135C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\node-releases\data\processed\envs.json133463044780273372 0
 126C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\instance\at.js133463108305092254 0
@@ -467,6 +460,17 @@
 145C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\csso\cjs\restructure\prepare\processSelector.cjs133463044786108733 0
 101C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\svgo133463044785899820 1
 159C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\010-introduction.md133463044787636450 0
+124C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\web.self.js133463108342543197 0
+107C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\color-name133463044780837562 1
+121C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\source-map\source-map.js133463044781066677 0
+112C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\htmlparser2\lib133463044784658435 1
+129C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\object\is-frozen.js133463108326193459 0
+142C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.number.min-safe-integer.js133463108310645850 0
+116C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\regenerator-runtime133463108302257019 1
+138C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\object\iterate-values.js133463108327337692 0
+132C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-js\lib\helpers\node133463044786648145 1
+127C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\removeMetadata.js133463044788346088 0
+140C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\string\virtual\trim-start.js133463108340726544 0
 106C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\commander133463044783188551 1
 104C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js133463108343281515 1
 168C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133463044786074073 0
@@ -769,7 +773,7 @@
 137C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\utility-types\dist\functional-helpers.js133463044780567524 0
 105C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr133463044787792655 1
 133C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\number\is-safe-integer.js133463108326501048 0
-111C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133466514149331649 0
+111C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133467458635077828 0
 139C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.array.from-async.js133463108313324342 0
 122C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\node-addon-api\LICENSE.md133463044784954823 0
 120C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\domhandler\lib\index.js133463044779941682 0
@@ -1067,7 +1071,7 @@
 157C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md133463044788346088 0
 128C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr\dist\index-no-eval.cjs133463044780622825 0
 120C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\array-buffer133463108334977621 1
-99C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\index.html133466514149894835 0
+99C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\index.html133467345406619963 0
 128C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\global-this.js133463108321437184 0
 153C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133463044792350340 0
 140C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\typed-array\find-last-index.js133463108317467684 0
@@ -1814,7 +1818,7 @@
 127C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\semver\internal\identifiers.js133463044784569428 0
 136C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\typed-array\float64-array.js133463108318874895 0
 145C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js133463044785899820 0
-106C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png133466514149608813 0
+106C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png133467458635308968 0
 134C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\iterator-indexed.js133463108327462751 0
 128C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\a-callable.js133463108302747152 0
 141C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\virtual\match-all.js133463108329396573 0
@@ -2720,8 +2724,8 @@
 115C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\promise133463108342942140 1
 118C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\escalade\package.json133463044781239013 0
 126C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\reflect\index.js133463108324675823 0
-154C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133463044788687266 0
 126C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\lexer\generic.js133463044791230019 0
+154C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133463044788687266 0
 141C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.number.is-safe-integer.js133463108310586060 0
 146C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\virtual\group-by-to-map.js133463108321610006 0
 129C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.map.of.js133463108314345602 0
@@ -3065,9 +3069,9 @@
 133C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\htmlparser2\lib\FeedHandler.d.ts.map133463044783112033 0
 127C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\htmlparser2\lib\FeedHandler.js133463044779941682 0
 164C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\general.d.ts133463044786108733 0
-134C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\string\to-well-formed.js133463108340056417 0
 149C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\web.url-search-params.constructor.js133463108342703285 0
 123C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\htmlparser2\lib\index.d.ts133463044784191172 0
+134C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\string\to-well-formed.js133463108340056417 0
 118C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\regexp133463108339820318 1
 151C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\esm\decode.js.map133463044786406833 0
 146C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133463044790200910 0
@@ -3457,9 +3461,6 @@
 120C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\domhandler\package.json133463044781309079 0
 128C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\string\anchor.js133463108303227131 0
 126C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\domhandler\lib\index.d.ts.map133463044781746182 0
-143C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\url-constructor-detection.js133463108341900615 0
-125C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\domhandler\lib\node.d.ts.map133463044782189021 0
-133C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\webgl2.js133463044798285645 0
 170C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133463044786326258 0
 115C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\domelementtype\lib133463044783434904 1
 139C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\cjs\_class_name_tdz_error.cjs133463044785191154 0
@@ -3983,7 +3984,7 @@
 127C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\symbol\species.js133463108335910348 0
 162C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.js133463044783751582 0
 125C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\typed-array\at.js133463108304836751 0
-107C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133466514149887797 0
+107C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133467458635077828 0
 130C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\csso\lib\replace\property\font.js133463044788533176 0
 128C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\AD.js133463044782881167 0
 123C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-svgo\src133463044780622825 1
@@ -9626,10 +9627,10 @@
 108C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\semver133463044799461807 0
 112C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\semver.cmd133463044799461807 0
 112C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\semver.ps1133463044799461807 0
-109C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133466514149287275 0
-107C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133466514149887797 0
+109C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133467458634913696 0
+107C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133467458635077828 0
 106C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\index.62406edb.js133463045715699881 0
-106C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133466569370654180 0
-110C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133466569370654180 0
-107C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133466514149287275 0
+106C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133467459324472244 0
+110C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133467459324472244 0
+107C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133467458634913696 0
 112C:\Users\Jack\Documents\JS-Pro\complete-javascript-course-master\18-forkify\starter\dist\starter.3464ddca.js.map133463045715699881 0
