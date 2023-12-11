@@ -1,6 +1,6 @@
 import { async } from 'regenerator-runtime';
 import { API_URL, KEY, RES_PER_PAGE } from './config.js';
-import { getJSON, sendJSON } from './helpers.js';
+import { AJAX } from './helpers.js';
 
 export const state = {
   recipe: {},
@@ -29,7 +29,7 @@ const createRecipeObject = function (data) {
 
 export const loadRecipe = async function (id) {
   try {
-    const data = await getJSON(`${API_URL}/${id}`);
+    const data = await AJAX(`${API_URL}/${id}`);
 
     state.recipe = createRecipeObject(data);
 
@@ -46,9 +46,9 @@ export const loadSearchResults = async function (query) {
     state.search.query = query;
 
     // update URL
-    history.pushState(null, '', `?search=${query}`);
+    history.pushState(null, '', `?search=${query}&key=${KEY}`);
 
-    const data = await getJSON(`${API_URL}?search=${query}`);
+    const data = await AJAX(`${API_URL}?search=${query}&key=${KEY}`);
 
     let { recipes } = data.data;
     state.search.results = recipes.map(rec => {
@@ -57,6 +57,7 @@ export const loadSearchResults = async function (query) {
         title: rec.title,
         publisher: rec.publisher,
         image: rec.image_url,
+        ...(rec.key && { key: rec.key }),
       };
     });
   } catch (err) {
@@ -143,7 +144,7 @@ export const uploadRecipe = async function (newRecipe) {
       cooking_time: +newRecipe.cookingTime,
       ingredients,
     };
-    const data = await sendJSON(`${API_URL}?search=pizza&key=${KEY}`, recipe);
+    const data = await AJAX(`${API_URL}?key=${KEY}`, recipe);
     state.recipe = createRecipeObject(data);
     addBookmark(state.recipe);
   } catch (err) {
